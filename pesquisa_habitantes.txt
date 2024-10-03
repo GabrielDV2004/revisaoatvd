@@ -1,0 +1,2 @@
+Dados: idade 14, sexo M, salário 4566.0
+Dados: idade 15, sexo F, salário 6000.0
